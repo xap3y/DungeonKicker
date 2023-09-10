@@ -1,14 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "DungeonKicker",
+  "name": "Dungeon Kicker",
+  "description": "Show kick option when player join your party.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/xap3y/DungeonKicker",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["XAP3Y"],
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

@@ -20,8 +20,3 @@ build
 # other
 eclipse
 run
-src/main/java/me/xap3y/DungeonKicker/Data.java
-src/main/java/me/xap3y/DungeonKicker/Profile.java
-src/main/java/me/xap3y/DungeonKicker/ObjectType.java
-src/main/java/me/xap3y/DungeonKicker/HttpGetNW.java
-src/main/java/me/xap3y/DungeonKicker/Networth.java
